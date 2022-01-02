@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.pingxixi.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home"/>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.pingxixi.ui.recyclerview.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail" />
+    <fragment
+        android:id="@+id/detailPersonFragment"
+        android:name="com.example.pingxixi.ui.person.DetailPersonFragment"
+        android:label="fragment_person_detail"
+        tools:layout="@layout/fragment_detail_person" />
+
+    <fragment
+        android:id="@+id/nav_computer"
+        android:name="com.example.pingxixi.ui.ComputerFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_computer"/>
+    <fragment
+        android:id="@+id/nav_Food"
+        android:name="com.example.pingxixi.ui.FoodFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_food">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_fruit"
+        android:name="com.example.pingxixi.ui.FruitFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_fruit">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_phone"
+        android:name="com.example.pingxixi.ui.PhoneFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_phone">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_supermarket"
+        android:name="com.example.pingxixi.ui.SupermarketFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_supermarket"></fragment>
+    <fragment
+        android:id="@+id/viewPageFragment"
+        android:name="com.example.pingxixi.viewPageFragment"
+        android:label="fragment_view_page"
+        tools:layout="@layout/fragment_view_page" />
+
+    <fragment
+        android:id="@+id/RecyclerViewFragment"
+        android:name="com.example.pingxixi.ui.recyclerview.RecyclerViewFragment"
+        android:label="fragment_view_page"
+        tools:layout="@layout/fragment_recyclerview" />
+
+    <fragment
+        android:id="@+id/nav_editgoods"
+        android:name="com.example.pingxixi.ui.recyclerview.EditGoodsFragment"
+        android:label="EditGoodsFragment" />
+</navigation>

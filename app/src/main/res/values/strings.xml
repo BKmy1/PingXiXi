@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">PingXiXi</string>
+    <string name="search" translatable="false">搜索</string>
+    <string name="fragment_person" translatable="false">hello fragment_person</string>
+    <string name="fragment_living" translatable="false">hello fragment_living</string>
+    <string name="fragment_home" translatable="false">hello fragment_home</string>
+    <string name="fragment_comment" translatable="false">hello fragment_comment</string>
+    <string name="fragment_classify" translatable="false">hello fragment_classify</string>
+    <string name="menu_comment" translatable="false">聊天</string>
+    <string name="menu_living" translatable="false">直播</string>
+    <string name="menu_home" translatable="false">首页</string>
+    <string name="menu_classify" translatable="false">分类</string>
+    <string name="menu_person" translatable="false">个人中心</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="blank_fragment">hello world!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">登陆页面</string>
+    <string name="prompt_email">请输入用户名</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="goodsname">商品名称</string>
+    <string name="goodsdescription">商品描述</string>
+    <string name="publishtime">生产日期</string>
+    <string name="goodspicture">商品图片</string>
+    <string name="username">用户姓名</string>
+    <string name="gender">用户性别</string>
+    <string name="password">用户密码</string>
+    <string name="userid">用户账号</string>
+    <string name="userdescription">用户描述</string>
+    <string name="userimg">用户头像</string>
+    <string name="save">保存</string>
+    <string name="clear">清空</string>
+    <string name="exit">退出</string>
+</resources>

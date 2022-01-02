@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_viewpager">
+
+    <fragment
+        android:id="@+id/navigation_viewpager"
+        android:name="com.example.pingxixi.viewPageFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_view_page" />
+
+    <fragment
+        android:id="@+id/navigation_classify"
+        android:name="com.example.pingxixi.ui.classify.ClassifyFragment"
+        android:label="@string/menu_classify"
+        tools:layout="@layout/fragment_classify" />
+
+    <fragment
+        android:id="@+id/navigation_comment"
+        android:name="com.example.pingxixi.ui.comment.CommentFragment"
+        android:label="@string/fragment_comment"
+        tools:layout="@layout/fragment_comment"/>
+
+    <fragment
+        android:id="@+id/navigation_living"
+        android:name="com.example.pingxixi.ui.living.LivingFragment"
+        android:label="@string/fragment_living"
+        tools:layout="@layout/fragment_living"/>
+    <fragment
+        android:id="@+id/navigation_person"
+        android:name="com.example.pingxixi.ui.person.PersonFragment"
+        android:label="@string/fragment_person"
+        tools:layout="@layout/fragment_person"/>
+
+</navigation>

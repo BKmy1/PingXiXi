@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable-v24/white_dot.xml" value="0.20102564102564102" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/dimens.xml" value="0.11197916666666667" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_classify_black_24dp.xml" value="0.21979166666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_classify_green_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_comment_black_24dp.xml" value="0.2074074074074074" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_comment_green_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21979166666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_home_green_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_list.xml" value="0.2037037037037037" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_living_black_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_living_green_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.14375" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2074074074074074" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_user.xml" value="0.2074074074074074" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_user_black_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/ic_user_green_24dp.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/tbl_classify.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/tbl_comment.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/tbl_home.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/tbl_living.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/drawable/tbl_person.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.186328125" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w1240dp/fragment_detail.xml" value="0.17890625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w1240dp/fragment_recyclerview.xml" value="0.17890625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w1240dp/layout_footer_view.xml" value="0.190625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w936dp/activity_login.xml" value="0.152734375" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout-w936dp/fragment_editbook.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_login.xml" value="0.19947916666666668" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_main2.xml" value="0.30173775671406006" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_main3.xml" value="0.14" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_main4.xml" value="0.1265625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/activity_main5.xml" value="0.1265625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/bottom_menu.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/bottom_nav_layout.xml" value="0.25" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/bottomitem.xml" value="0.1890625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/content_layout.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/content_main.xml" value="0.13125" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/flowlayout.xml" value="0.1890625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_blank.xml" value="0.1390625" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_classify.xml" value="0.23958333333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_comment.xml" value="0.33" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_computer.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_computer_copy.xml" value="0.13385416666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_detail.xml" value="0.22" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_detail_person.xml" value="0.22" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_edit_goods.xml" value="0.33" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_food.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_food_copy.xml" value="0.13385416666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_fruit.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_fruit_copy.xml" value="0.13385416666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_goods.xml" value="0.25" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_living.xml" value="0.2" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_person.xml" value="0.15" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_phone.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_phone_copy.xml" value="0.13385416666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_recommend.xml" value="0.16" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_recycler_view.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_recyclerview.xml" value="0.20021074815595363" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_spuer_market_copy.xml" value="0.13385416666666666" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_supermarket.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_test.xml" value="0.19947916666666668" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_view_page.xml" value="0.23177083333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/fragment_view_paper.xml" value="0.21" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/goods_list.xml" value="0.67" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/item.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/item_copy.xml" value="0.25" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/item_lv.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/item_tab.xml" value="0.33" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/item_video.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/layout_footer_view.xml" value="0.18541666666666667" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/layout_swipe_recyclerview.xml" value="0.18541666666666667" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/list_item.xml" value="0.5" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/recycler.xml" value="0.13489583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/layout/video_my.xml" value="0.2" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/menu/bottom_menu.xml" value="0.27239583333333334" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/android/PingXiXi/app/src/main/res/xml/network_security_config.xml" value="0.15520833333333334" />
+        <entry key="..\:/android/PingXiXi0/app/src/main/res/layout/fragment_computer.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi0/app/src/main/res/layout/fragment_detail.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi0/app/src/main/res/layout/fragment_food.xml" value="0.20364583333333333" />
+        <entry key="..\:/android/PingXiXi0/app/src/main/res/layout/fragment_home.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
